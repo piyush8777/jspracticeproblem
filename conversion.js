@@ -1,5 +1,6 @@
 /********************************************************************
- * Purpose - To find degF or degC based on their conversion
+ * Purpose - To find degF or degC based on their c1
+ * onversion
  * 
  * @version 1.0
  * @author Piyush
